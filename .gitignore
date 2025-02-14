@@ -7,7 +7,8 @@ include/
 bin/
 share/
 pyvenv.cfg
-lib64/
+venv/
+lib64
 
 
 # C extensions
